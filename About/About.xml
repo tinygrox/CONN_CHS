@@ -16,5 +16,9 @@
   <loadAfter>
     <li>kikohi.cybernetic</li>
   </loadAfter>
-  <description>Cybernetic Organism and Neural Network的简中翻译，适用于1.4版本。</description>
+  <description>Cybernetic Organism and Neural Network的简中翻译，适用于1.4版本。\n
+    - 翻译完了所有可能出现的文本（包括了当你没安装EPOE的时候会出现的贸易商的名字，即bionics trader），总体来说，语句构成是属于在说人话的范围内。\n
+    - 这个 mod 说实话不好翻译，翻译也是个要创造力的活，这就是个活生生的例子。翻来翻去已经翻到江郎才尽，不得已才机翻了一部分，但如上一条所说，还在人话范围内。\n
+    - 同样的，这个翻译也上传到了GitHub： [url]https://github.com/tinygrox/CONN_CHS[/url]
+  </description>
 </ModMetaData>

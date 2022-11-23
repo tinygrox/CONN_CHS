@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: Health points added -->
-  <CONN_HealthPointAddedToPart.label>健康值</CONN_HealthPointAddedToPart.label>
+  <CONN_HealthPointAddedToPart.label>部位健康值</CONN_HealthPointAddedToPart.label>
   <!-- EN: The amount of health point added to a body part.\n\nThis represent how much health point the bionics will add to the concerned body part. -->
   <CONN_HealthPointAddedToPart.description>身体部位的耐久度。\n\n表示该仿生义体将为对应的部位增加多少的健康值。</CONN_HealthPointAddedToPart.description>
   
