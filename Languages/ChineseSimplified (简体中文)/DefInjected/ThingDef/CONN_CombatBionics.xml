@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cyclops visor -->
+  <CONN_CyclopsVisor.label>镭射义眼</CONN_CyclopsVisor.label>
+  <!-- EN: A hybrid bionic eye and target acquisition system with full adjustment filters and data scaning. It can be linked to the memory by connecting to the central nerve system. Enhance the sight and sharpness. (Replacement) -->
+  <CONN_CyclopsVisor.description>一个具有全参数调节的光波过滤和数据扫描功能的目标定位系统的混动型仿生眼。通过与中枢神经系统相连接，实现与海马区共享记忆数据。增强了视线范围和清晰度。（替换部位）</CONN_CyclopsVisor.description>
+  
+  <!-- EN: elastic achilles -->
+  <CONN_ElasticAchilles.label>弹性跟腱</CONN_ElasticAchilles.label>
+  <!-- EN: This bionic leg module can hold a man on his feet, even without any flesh on his bones. It's designed to annul the last human weakness in close combat, the Achilles' heel, by replacing it with a more elastic and less sensitive version. Favored by heavy ground units. It comes with all parts for a complete reconstruction. (Replacement) -->
+  <CONN_ElasticAchilles.description>这种仿生腿义体即使腿部已然森森白骨，仍然能保持站立。此义体的设计旨在消除人类在近距离战斗中的最后一丝弱点——阿喀琉斯之踵（荷马史诗中英雄阿喀琉斯唯一的弱点，即他的脚后跟），义体换上了更具弹性且灵敏度更低的材质。在重型陆战部队中非常受欢迎。该义体部件完整，能完全替代原生部件。（替换部位）</CONN_ElasticAchilles.description>
+  
+  <!-- EN: energy fist -->
+  <CONN_EnergyFist.label>能量义手</CONN_EnergyFist.label>
+  <!-- EN: A combat-oriented hand replacement consisting of a technological hand and an implemented pumping system inside the wrist. The pump allows for quick, controlled punches. The mechanical trigger lets you have control about its sheer power with its powerful speed boosts bounded on neural connectors and energized by an ultratech micro-battery. (Replacement) -->
+  <CONN_EnergyFist.description>一种面向战斗场景的手部义体改造，部件主要由一个高科技手掌和手腕处的泵送系统组成。其中的泵送系统能够给拳头提供一个快速可控的加速度，用来打击敌人。纯机械驱动的构造能让你完全掌控这个有绑定在神经连接器上的强力增速器的义体，无论是力道还是速度，由里面的一个超高科技微型电池进行供电。（替换部位）</CONN_EnergyFist.description>
+  
+  <!-- EN: laser detection -->
+  <CONN_LaserDetection.label>激光探测</CONN_LaserDetection.label>
+  <!-- EN: A laser detection device, mounted on the ear side. The laser scans the environment and displays all important data on an extendable eye patch display. Improves sight substantially, while increasing target acquisition alongside it, with its elegant auto marker. (Implant) -->
+  <CONN_LaserDetection.description>安装在耳侧的激光探测装置。激光可扫描周遭环境并将所有重要的信息显示在一个可拓展单眼显示屏中。其简明的自动标记功能能大幅度提高视野范围，同时增加了对物体的辨识率。（植入部位）</CONN_LaserDetection.description>
+  
+  <!-- EN: sensoric earside -->
+  <CONN_SensoricEarside.label>耳侧传感组件</CONN_SensoricEarside.label>
+  <!-- EN: A sensoric hearing device and target acquisition system, replacing the ear. This allows you to hear a needle dropping from a far distance. (Replacement) -->
+  <CONN_SensoricEarside.description>一个可替换原生耳朵的声听传感器部件，内置有目标捕获系统。远处哪里有根针掉下来都能听到。（替换部位）</CONN_SensoricEarside.description>
+  
+  <!-- EN: zoom -->
+  <CONN_Zoom.label>变焦义眼</CONN_Zoom.label>
+  <!-- EN: An enhanced artificial eye. With its biogel nerve-link, internal signal pre-processor, self-repair module, wide-spectrum sensors, and synaptic impulse transmitter, it is better than a biological eye in almost every way. The prototype neuro connector allows the user to zoom in and out on thought. (Replacement) -->
+  <CONN_Zoom.description>一个增强型人工义眼。其包含的生物凝胶神经链路、神经信号预处理器、自我修复模块、宽光谱光学传感器、突触神经冲动发生器让此义体在各方面来说都优于生物体原生部件。里面的神经连接器原型让义体能跟随使用者的思想对画面进行缩放。（替换部位）</CONN_Zoom.description>
+  
+</LanguageData>

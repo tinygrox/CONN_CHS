@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: black pearl -->
+  <CONN_hediff_BlackPearl.label>黑珍珠</CONN_hediff_BlackPearl.label>
+  <!-- EN: An improved artificial eye with unique elements and full side trigger. It brings a wide set of features, but the most outstanding is the night vision. The black pearl was once an important symbol between soldiers. The core is basically an android eye-ball module, taken out of a mechanoid body by alpha marines. They were treated as spoils of war during a dark era of mankind. The name relates to its deep black color, which makes the mind unreadable for analytic sequences. It's now also used by workers, because of its great sight impact. -->
+  <CONN_hediff_BlackPearl.description>一个改进型人工眼球，用了一种独特的元素制作而成，全方位视野。拥有大量的功能，但最突出的功能是夜视。黑珍珠曾经是表明士兵身份的一个重要标志。核心基本上就是一个类人机器的眼球模块，由阿尔法海军陆战队从机械族身体上取出。在那个人类陷入黑暗的时代，这个被拿来做为战利品。这个名字与它表现的深黑色有关，这能让使用者无法被通过双眼窃取心智。现在已常用于工人当中，毕竟这个视觉提升的效果非常大。</CONN_hediff_BlackPearl.description>
+  <!-- EN: a black eye -->
+  <CONN_hediff_BlackPearl.labelNoun>一个黑色眼球</CONN_hediff_BlackPearl.labelNoun>
+  
+  <!-- EN: compression jaw -->
+  <CONN_hediff_CompressionJaw.label>压缩颌</CONN_hediff_CompressionJaw.label>
+  <!-- EN: An artificial jaw replacement with a hydraulic servo-motor. The plasteel case plus gold teeth combination crushes through steel with ease and allows the carrier to compress food in seconds. Its great speed also allows the carrier to speak with ease. -->
+  <CONN_hediff_CompressionJaw.description>用液压伺服马达制作的可代替原生部件的人工下颌。玻璃钢材质和金制牙齿的组成可以轻易的咬碎钢铁，这可让使用者快速的进食。不错的张合速度也允许使用者说话。</CONN_hediff_CompressionJaw.description>
+  <!-- EN: an hydraulic jaw -->
+  <CONN_hediff_CompressionJaw.labelNoun>一个液压颌</CONN_hediff_CompressionJaw.labelNoun>
+  
+  <!-- EN: compression stomach -->
+  <CONN_hediff_CompressionStomach.label>压缩胃</CONN_hediff_CompressionStomach.label>
+  <!-- EN: A strong bionic stomach that digests food at an unimaginable rate due to its internal hydraulic servo-motors. It is possible to ingest stones and make them dissipate soon after, thanks to the integrated muriatic acid mixer. -->
+  <CONN_hediff_CompressionStomach.description>一个强力的仿生胃，内置的液压伺服马达可以以一个难以想象的速度压缩食物。内置了一个盐酸搅拌器，甚至可以消化石块。</CONN_hediff_CompressionStomach.description>
+  <!-- EN: a bionic stomach -->
+  <CONN_hediff_CompressionStomach.labelNoun>一个仿生胃</CONN_hediff_CompressionStomach.labelNoun>
+  
+  <!-- EN: flashlight -->
+  <CONN_hediff_FlashLight.label>照明电筒</CONN_hediff_FlashLight.label>
+  <!-- EN: A flashlight to enlighten the dark, mounted on the ear side. -->
+  <CONN_hediff_FlashLight.description>安装在耳侧的照明电筒，用于照亮黑暗环境。</CONN_hediff_FlashLight.description>
+  <!-- EN: a flashlight -->
+  <CONN_hediff_FlashLight.labelNoun>照明电筒</CONN_hediff_FlashLight.labelNoun>
+  
+  <!-- EN: greenthumb -->
+  <CONN_hediff_Greenthumb.label>务农指</CONN_hediff_Greenthumb.label>
+  <!-- EN: A dedicated bionic module created for farmers in an effort of quick colonization. It replaces the thumb as a full configurable and functional finger device. Everything inside the palm of the hand is scanned with a learning nanocomputer, containing information about various types of flora and fauna. The nail glows green during data scans and loading times. -->
+  <CONN_hediff_Greenthumb.description>为农夫创造的仿生体部件，加快建造殖民地的速度。义体能够完全代替拇指的功能，是一个功能齐全且可完全自定义的手指义体。内置的学习型纳米计算机会自动扫描接触在手心里的任何物体，获得有关该动物或植物种类的任何信息。在扫描或是装载物品时指甲会发出绿光。</CONN_hediff_Greenthumb.description>
+  <!-- EN: a greenthumb -->
+  <CONN_hediff_Greenthumb.labelNoun>务农指</CONN_hediff_Greenthumb.labelNoun>
+  
+  <!-- EN: hover foot -->
+  <CONN_hediff_HoverFeet.label>悬浮足</CONN_hediff_HoverFeet.label>
+  <!-- EN: A self-sustaining hover board mounted on a rail adapter transplantation directly linked to the bones inside the foot. Young street gangs used this once upon a time to escape after committing crimes on Urbworlds. It enhances movement speed by gliding. -->
+  <CONN_hediff_HoverFeet.description>一块可悬停在空中的悬浮滑板，安装在要直接移植到足部与骨头相连的类似于枪支的导轨组件上。那些在都市世界的街头小混混曾经有段时间人手一个就是因为这个能帮他们在犯罪后马上跑路。提供的滑行功能提高了移动速度。</CONN_hediff_HoverFeet.description>
+  <!-- EN: an hover foot -->
+  <CONN_hediff_HoverFeet.labelNoun>悬浮足</CONN_hediff_HoverFeet.labelNoun>
+  
+  <!-- EN: musclewire -->
+  <CONN_hediff_Musclewire.label>肌肉线束</CONN_hediff_Musclewire.label>
+  <!-- EN: A complete fusion of all muscles in the body with wiring channels, enhancing movement speed and agility drastically. -->
+  <CONN_hediff_Musclewire.description>体内的所有肌肉纤维都由线束牵引控制，大幅度提高移动速度和灵活性。</CONN_hediff_Musclewire.description>
+  <!-- EN: a musclewire -->
+  <CONN_hediff_Musclewire.labelNoun>肌肉线束</CONN_hediff_Musclewire.labelNoun>
+  
+</LanguageData>

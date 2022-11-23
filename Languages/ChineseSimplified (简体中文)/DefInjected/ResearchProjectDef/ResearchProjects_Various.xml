@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Advanced combat improving bionics -->
+  <CONN_CombatAdvancedBionics.label>先进战斗改进型仿生学</CONN_CombatAdvancedBionics.label>
+  <!-- EN: Learn how to create advanced bionics that improve pawns combat abilities.\n\nMaking these bionics will require at least a master crafter to make them and a strong master doctor to install them. -->
+  <CONN_CombatAdvancedBionics.description>学习如何制作提高殖民者作战能力的先进仿生体。\n\n制作这些仿生体需要至少一名手工等级为一代大师（14级）的殖民者才能制作，且还需要一名医疗等级为登峰造极（15级）的医生才能安装。</CONN_CombatAdvancedBionics.description>
+  
+  <!-- EN: Combat improving bionics -->
+  <CONN_CombatBionics.label>战斗改进型仿生学</CONN_CombatBionics.label>
+  <!-- EN: Learn how to create bionics that improve pawns combat abilities.\n\nMaking these bionics will require at least an employable professional crafter to make them and a skilled professional doctor to install them. -->
+  <CONN_CombatBionics.description>学习如何制作提高殖民者作战能力的仿生体。\n\n制作这些仿生体需要至少一名手工等级为得心应手（8级）的殖民者才能制作，且还需要一名医疗等级为游刃有馀（10级）的医生才能安装。</CONN_CombatBionics.description>
+  
+  <!-- EN: Mind altering bionics -->
+  <CONN_MindAlteringBionics.label>思维默化仿生学</CONN_MindAlteringBionics.label>
+  <!-- EN: Learn how to create mind altering bionics that improve pawns abilties.\n\nMaking these bionics will require at least a region-known master crafter to make them and a region-known master doctor to install them. -->
+  <CONN_MindAlteringBionics.description>学习如何制作可以影响殖民者大脑而提高其能力的的仿生体。\n\n制作这些仿生体需要至少一名手工等级为蜚声内外（16级）的殖民者才能制作，且还需要一名医疗等级为蜚声寰宇（18级）的医生才能安装。</CONN_MindAlteringBionics.description>
+  
+  <!-- EN: Advanced production improving bionics -->
+  <CONN_ProductiveAdvancedBionics.label>先进生产改进型仿生学</CONN_ProductiveAdvancedBionics.label>
+  <!-- EN: Learn how to create advanced bionics that improve pawns productivity and speed in common life tasks.\n\nMaking these bionics will require at least a master crafter to make them and a strong master doctor to install them. -->
+  <CONN_ProductiveAdvancedBionics.description>学习如何制作可以提高殖民者生产力的先进仿生体。\n\n制作这些仿生体需要至少一名手工等级为一代大师（14级）的殖民者才能制作，且还需要一名医疗等级为登峰造极（15级）的医生才能安装。</CONN_ProductiveAdvancedBionics.description>
+  
+  <!-- EN: Production improving bionics -->
+  <CONN_ProductiveBionics.label>生产改进型仿生学</CONN_ProductiveBionics.label>
+  <!-- EN: Learn how to create bionics that improve pawns productivity and speed in common life tasks.\n\nMaking these bionics will require at least an employable professional crafter to make them and a skilled professional doctor to install them. -->
+  <CONN_ProductiveBionics.description>学习如何制作可以提高殖民者生产力的仿生体。\n\n制作这些仿生体需要至少一名手工等级为得心应手（8级）的殖民者才能制作，且还需要一名医疗等级为游刃有馀的医生才能安装。</CONN_ProductiveBionics.description>
+  
+</LanguageData>

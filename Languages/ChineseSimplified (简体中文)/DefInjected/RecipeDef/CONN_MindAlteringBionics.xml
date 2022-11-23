@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: install berserker chip -->
+  <CONN_InstallBerserkerChip.label>安装狂暴芯片</CONN_InstallBerserkerChip.label>
+  <!-- EN: Install a berserker chip. -->
+  <CONN_InstallBerserkerChip.description>安装狂暴芯片。</CONN_InstallBerserkerChip.description>
+  <!-- EN: Installing berserker chip. -->
+  <CONN_InstallBerserkerChip.jobString>正在安装狂暴芯片。</CONN_InstallBerserkerChip.jobString>
+  
+  <!-- EN: install combat ai -->
+  <CONN_InstallCombatAI.label>安装战斗AI</CONN_InstallCombatAI.label>
+  <!-- EN: Install a combat ai. -->
+  <CONN_InstallCombatAI.description>安装战斗AI。</CONN_InstallCombatAI.description>
+  <!-- EN: Installing combat ai. -->
+  <CONN_InstallCombatAI.jobString>正在安装战斗AI。</CONN_InstallCombatAI.jobString>
+  
+  <!-- EN: install mindtwist -->
+  <CONN_InstallMindtwist.label>安装心境扭曲</CONN_InstallMindtwist.label>
+  <!-- EN: Install a mindtwist. -->
+  <CONN_InstallMindtwist.description>安装心境扭曲。</CONN_InstallMindtwist.description>
+  <!-- EN: Installing mindtwist. -->
+  <CONN_InstallMindtwist.jobString>正在安装心境扭曲</CONN_InstallMindtwist.jobString>
+  
+  <!-- EN: install muse chip -->
+  <CONN_InstallMuseChip.label>安装缪斯芯片</CONN_InstallMuseChip.label>
+  <!-- EN: Install a muse chip. -->
+  <CONN_InstallMuseChip.description>安装缪斯芯片。</CONN_InstallMuseChip.description>
+  <!-- EN: Installing muse chip. -->
+  <CONN_InstallMuseChip.jobString>正在安装缪斯芯片。</CONN_InstallMuseChip.jobString>
+  
+  <!-- EN: install neuro enhancer -->
+  <CONN_InstallNeuroEnhancer.label>安装神经增强器</CONN_InstallNeuroEnhancer.label>
+  <!-- EN: Install a neuro enhancer. -->
+  <CONN_InstallNeuroEnhancer.description>安装神经增强器。</CONN_InstallNeuroEnhancer.description>
+  <!-- EN: Installing neuro enhancer. -->
+  <CONN_InstallNeuroEnhancer.jobString>正在安装神经增强器。</CONN_InstallNeuroEnhancer.jobString>
+  
+  <!-- EN: remove berserker chip -->
+  <CONN_RemoveBerserkerChip.label>移除狂暴芯片</CONN_RemoveBerserkerChip.label>
+  <!-- EN: Remove berserker chip. -->
+  <CONN_RemoveBerserkerChip.description>移除狂暴芯片。</CONN_RemoveBerserkerChip.description>
+  <!-- EN: Removing berserker chip. -->
+  <CONN_RemoveBerserkerChip.jobString>正在移除狂暴芯片。</CONN_RemoveBerserkerChip.jobString>
+  
+  <!-- EN: remove combat AI -->
+  <CONN_RemoveCombatAI.label>移除战斗AI</CONN_RemoveCombatAI.label>
+  <!-- EN: Remove combat AI. -->
+  <CONN_RemoveCombatAI.description>移除战斗AI。</CONN_RemoveCombatAI.description>
+  <!-- EN: Removing combat AI. -->
+  <CONN_RemoveCombatAI.jobString>正在移除战斗AI</CONN_RemoveCombatAI.jobString>
+  
+  <!-- EN: remove mindtwist -->
+  <CONN_RemoveMindTwist.label>移除心境扭曲</CONN_RemoveMindTwist.label>
+  <!-- EN: Remove mindtwist. -->
+  <CONN_RemoveMindTwist.description>移除心境扭曲。</CONN_RemoveMindTwist.description>
+  <!-- EN: Removing mindtwist. -->
+  <CONN_RemoveMindTwist.jobString>正在移除心境扭曲。</CONN_RemoveMindTwist.jobString>
+  
+  <!-- EN: remove muse chip -->
+  <CONN_RemoveMuseChip.label>移除缪斯芯片</CONN_RemoveMuseChip.label>
+  <!-- EN: Remove muse chip. -->
+  <CONN_RemoveMuseChip.description>移除缪斯芯片。</CONN_RemoveMuseChip.description>
+  <!-- EN: Removing muse chip. -->
+  <CONN_RemoveMuseChip.jobString>正在移除缪斯芯片。</CONN_RemoveMuseChip.jobString>
+  
+  <!-- EN: remove neuroenchancer -->
+  <CONN_RemoveNeuroEnchancer.label>移除神经增强器</CONN_RemoveNeuroEnchancer.label>
+  <!-- EN: Remove neuroenchancer. -->
+  <CONN_RemoveNeuroEnchancer.description>移除神经增强器。</CONN_RemoveNeuroEnchancer.description>
+  <!-- EN: Removing neuroenchancer. -->
+  <CONN_RemoveNeuroEnchancer.jobString>正在移除神经增强器。</CONN_RemoveNeuroEnchancer.jobString>
+  
+</LanguageData>

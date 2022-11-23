@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: install dermalplating -->
+  <CONN_InstallDermalplating.label>安装皮下护甲</CONN_InstallDermalplating.label>
+  <!-- EN: Install a dermalplating. -->
+  <CONN_InstallDermalplating.description>安装皮下护甲。</CONN_InstallDermalplating.description>
+  <!-- EN: Installing dermalplating. -->
+  <CONN_InstallDermalplating.jobString>正在安装皮下护甲。</CONN_InstallDermalplating.jobString>
+  
+  <!-- EN: install energy link -->
+  <CONN_InstallEnergyLink.label>安装能量链路</CONN_InstallEnergyLink.label>
+  <!-- EN: Install energy link. -->
+  <CONN_InstallEnergyLink.description>安装能量链路。</CONN_InstallEnergyLink.description>
+  <!-- EN: Installing energy link. -->
+  <CONN_InstallEnergyLink.jobString>正在安装能量链路。</CONN_InstallEnergyLink.jobString>
+  
+  <!-- EN: install exoskeleton armor -->
+  <CONN_InstallExoskeletonArmor.label>安装外骨骼装甲</CONN_InstallExoskeletonArmor.label>
+  <!-- EN: Install an exoskeleton armor. -->
+  <CONN_InstallExoskeletonArmor.description>安装外骨骼装甲。</CONN_InstallExoskeletonArmor.description>
+  <!-- EN: Installing exoskeleton armor. -->
+  <CONN_InstallExoskeletonArmor.jobString>正在安装外骨骼装甲。</CONN_InstallExoskeletonArmor.jobString>
+  
+  <!-- EN: install robotic eye -->
+  <CONN_InstallIndependentEye.label>安装机械义眼</CONN_InstallIndependentEye.label>
+  <!-- EN: Install robotic eye. -->
+  <CONN_InstallIndependentEye.description>安装机械义眼。</CONN_InstallIndependentEye.description>
+  <!-- EN: Installing robotic eye. -->
+  <CONN_InstallIndependentEye.jobString>正在安装机械义眼。</CONN_InstallIndependentEye.jobString>
+  
+  <!-- EN: install lionheart -->
+  <CONN_InstallLionheart.label>安装雄狮之心</CONN_InstallLionheart.label>
+  <!-- EN: Install lionheart. -->
+  <CONN_InstallLionheart.description>安装雄狮之心。</CONN_InstallLionheart.description>
+  <!-- EN: Installing lionheart. -->
+  <CONN_InstallLionheart.jobString>正在安装雄狮之心。</CONN_InstallLionheart.jobString>
+  
+  <!-- EN: install outer blade -->
+  <CONN_InstallOuterBlade.label>安装螳螂刀</CONN_InstallOuterBlade.label>
+  <!-- EN: Install outer blade. -->
+  <CONN_InstallOuterBlade.description>安装螳螂刀。</CONN_InstallOuterBlade.description>
+  <!-- EN: Installing outer blade. -->
+  <CONN_InstallOuterBlade.jobString>正在安装螳螂刀。</CONN_InstallOuterBlade.jobString>
+  
+  <!-- EN: install power arms -->
+  <CONN_InstallPowerArms.label>动力义臂</CONN_InstallPowerArms.label>
+  <!-- EN: Install power arms. -->
+  <CONN_InstallPowerArms.description>安装动力义臂</CONN_InstallPowerArms.description>
+  <!-- EN: Installing power arms. -->
+  <CONN_InstallPowerArms.jobString>正在安装动力义臂。</CONN_InstallPowerArms.jobString>
+  
+  <!-- EN: install shadowrunner -->
+  <CONN_InstallShadowrunner.label>安装影行</CONN_InstallShadowrunner.label>
+  <!-- EN: Install shadowrunner. -->
+  <CONN_InstallShadowrunner.description>安装影行。</CONN_InstallShadowrunner.description>
+  <!-- EN: Installing shadowrunner. -->
+  <CONN_InstallShadowrunner.jobString>正在安装影行。</CONN_InstallShadowrunner.jobString>
+  
+  <!-- EN: remove dermalplating -->
+  <CONN_RemoveDermaplating.label>移除皮下护甲</CONN_RemoveDermaplating.label>
+  <!-- EN: Remove dermalplating. -->
+  <CONN_RemoveDermaplating.description>移除皮下护甲。</CONN_RemoveDermaplating.description>
+  <!-- EN: Removing dermalplating. -->
+  <CONN_RemoveDermaplating.jobString>正在移除皮下护甲。</CONN_RemoveDermaplating.jobString>
+  
+  <!-- EN: remove exoskeleton armor -->
+  <CONN_RemoveExoskeletonArmor.label>移除外骨骼装甲</CONN_RemoveExoskeletonArmor.label>
+  <!-- EN: Remove exoskeleton armor. -->
+  <CONN_RemoveExoskeletonArmor.description>移除外骨骼装甲。</CONN_RemoveExoskeletonArmor.description>
+  <!-- EN: Removing exoskeleton armor. -->
+  <CONN_RemoveExoskeletonArmor.jobString>正在移除外骨骼装甲。</CONN_RemoveExoskeletonArmor.jobString>
+  
+</LanguageData>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: install aurum -->
+  <CONN_InstallAurum.label>安装黄金义眼</CONN_InstallAurum.label>
+  <!-- EN: Install aurum. -->
+  <CONN_InstallAurum.description>安装黄金义眼。</CONN_InstallAurum.description>
+  <!-- EN: Installing aurum. -->
+  <CONN_InstallAurum.jobString>正在安装黄金义眼。</CONN_InstallAurum.jobString>
+  
+  <!-- EN: install autonomic viruskiller -->
+  <CONN_InstallAutonomicViruskiller.label>安装自动净毒肝</CONN_InstallAutonomicViruskiller.label>
+  <!-- EN: Install autonomic viruskiller. -->
+  <CONN_InstallAutonomicViruskiller.description>安装自动净毒肝。</CONN_InstallAutonomicViruskiller.description>
+  <!-- EN: Installing autonomic viruskiller. -->
+  <CONN_InstallAutonomicViruskiller.jobString>正在安装自动净毒肝。</CONN_InstallAutonomicViruskiller.jobString>
+  
+  <!-- EN: install energetic kidney -->
+  <CONN_InstallEnergeticKidney.label>安装活力肾</CONN_InstallEnergeticKidney.label>
+  <!-- EN: Install energetic kidney. -->
+  <CONN_InstallEnergeticKidney.description>安装活力肾。</CONN_InstallEnergeticKidney.description>
+  <!-- EN: Installing energetic kidney. -->
+  <CONN_InstallEnergeticKidney.jobString>正在安装活力肾。</CONN_InstallEnergeticKidney.jobString>
+  
+  <!-- EN: install energetic lung -->
+  <CONN_InstallEnergeticLung.label>安装活力肺</CONN_InstallEnergeticLung.label>
+  <!-- EN: Install energetic lung. -->
+  <CONN_InstallEnergeticLung.description>安装活力肺。</CONN_InstallEnergeticLung.description>
+  <!-- EN: Installing energetic lung. -->
+  <CONN_InstallEnergeticLung.jobString>正在安装活力肺。</CONN_InstallEnergeticLung.jobString>
+  
+  <!-- EN: install energy core -->
+  <CONN_InstallEnergyCore.label>安装能源核心</CONN_InstallEnergyCore.label>
+  <!-- EN: Install energy core. -->
+  <CONN_InstallEnergyCore.description>安装能源核心。</CONN_InstallEnergyCore.description>
+  <!-- EN: Installing energy core. -->
+  <CONN_InstallEnergyCore.jobString>正在安装能源核心。</CONN_InstallEnergyCore.jobString>
+  
+</LanguageData>

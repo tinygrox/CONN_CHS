@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Zoom -->
+  <CONN_SeeEverything.stages.Zoom.label>变焦义眼</CONN_SeeEverything.stages.Zoom.label>
+  <!-- EN: Never saw things so clear in my life. -->
+  <CONN_SeeEverything.stages.Zoom.description>这辈子从来没有看东西这么清楚。</CONN_SeeEverything.stages.Zoom.description>
+  
+  <!-- EN: VI -->
+  <CONN_VirtualIdentity.stages.VI.label>虚拟人格</CONN_VirtualIdentity.stages.VI.label>
+  <!-- EN: Feels amazing to always have a friend by my side. -->
+  <CONN_VirtualIdentity.stages.VI.description>能总是有个朋友在身边真是太棒了。</CONN_VirtualIdentity.stages.VI.description>
+  
+</LanguageData>

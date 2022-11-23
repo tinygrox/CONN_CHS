@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: install cyclops visor -->
+  <CONN_InstallCyclopsVisor.label>安装镭射义眼</CONN_InstallCyclopsVisor.label>
+  <!-- EN: Install cyclops visor. -->
+  <CONN_InstallCyclopsVisor.description>安装镭射义眼。</CONN_InstallCyclopsVisor.description>
+  <!-- EN: Installing cyclops visor. -->
+  <CONN_InstallCyclopsVisor.jobString>正在安装镭射义眼。</CONN_InstallCyclopsVisor.jobString>
+  
+  <!-- EN: install elastic achilles -->
+  <CONN_InstallElasticAchilles.label>安装弹性跟腱</CONN_InstallElasticAchilles.label>
+  <!-- EN: Install elastic achilles. -->
+  <CONN_InstallElasticAchilles.description>安装弹性跟腱。</CONN_InstallElasticAchilles.description>
+  <!-- EN: Installing elastic achilles. -->
+  <CONN_InstallElasticAchilles.jobString>正在安装弹性跟腱。</CONN_InstallElasticAchilles.jobString>
+  
+  <!-- EN: install energy fist -->
+  <CONN_InstallEnergyFist.label>安装能量义手</CONN_InstallEnergyFist.label>
+  <!-- EN: Install energy fist. -->
+  <CONN_InstallEnergyFist.description>安装能量义手。</CONN_InstallEnergyFist.description>
+  <!-- EN: Installing energy fist. -->
+  <CONN_InstallEnergyFist.jobString>正在安装能量义手。</CONN_InstallEnergyFist.jobString>
+  
+  <!-- EN: install laser detection -->
+  <CONN_InstallLaserDetection.label>安装激光探测</CONN_InstallLaserDetection.label>
+  <!-- EN: Install a laser detection. -->
+  <CONN_InstallLaserDetection.description>安装激光探测。</CONN_InstallLaserDetection.description>
+  <!-- EN: Installing laser detection. -->
+  <CONN_InstallLaserDetection.jobString>正在安装激光探测。</CONN_InstallLaserDetection.jobString>
+  
+  <!-- EN: install sensoric earside -->
+  <CONN_InstallSensoricEarside.label>安装耳侧传感组件</CONN_InstallSensoricEarside.label>
+  <!-- EN: Install sensoric earside. -->
+  <CONN_InstallSensoricEarside.description>安装耳侧传感组件。</CONN_InstallSensoricEarside.description>
+  <!-- EN: Installing sensoric earside. -->
+  <CONN_InstallSensoricEarside.jobString>正在安装耳侧传感组件。</CONN_InstallSensoricEarside.jobString>
+  
+  <!-- EN: install zoom -->
+  <CONN_InstallZoom.label>安装变焦义眼</CONN_InstallZoom.label>
+  <!-- EN: Install zoom. -->
+  <CONN_InstallZoom.description>安装变焦义眼。</CONN_InstallZoom.description>
+  <!-- EN: Installing zoom. -->
+  <CONN_InstallZoom.jobString>正在安装变焦义眼。</CONN_InstallZoom.jobString>
+  
+  <!-- EN: remove laser detection device -->
+  <CONN_RemoveLaserDetection.label>移除激光探测装置</CONN_RemoveLaserDetection.label>
+  <!-- EN: Remove laser detection device. -->
+  <CONN_RemoveLaserDetection.description>移除激光探测装置。</CONN_RemoveLaserDetection.description>
+  <!-- EN: Removing laser detection device. -->
+  <CONN_RemoveLaserDetection.jobString>正在移除激光探测装置。</CONN_RemoveLaserDetection.jobString>
+  
+</LanguageData>

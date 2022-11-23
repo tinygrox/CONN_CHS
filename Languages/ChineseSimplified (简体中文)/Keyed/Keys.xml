@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<!-- EN: {0} already have 3 traits -->
+  <CONN.ToMuchTraits>{0}已有3个特性</CONN.ToMuchTraits>
+	<!-- EN: {0} don't have any trait to remove -->
+  <CONN.NoPossibleTraitToRemove>{0}无可移除的特性</CONN.NoPossibleTraitToRemove>
+	
+	<!-- EN: {0} gained 2 level for each skills. -->
+  <CONN.SkillsLearned>{0}的所有技能提升了2级。</CONN.SkillsLearned>
+	<!-- EN: {0} don't need anymore skill learning. -->
+  <CONN.NoSkillCanBeLearned>{0}不再需要学习任何技能。</CONN.NoSkillCanBeLearned>
+	
+	<!-- EN: {0} can develop anymore passion. -->
+  <CONN.CantGetOtherPassion>{0}可培养更多的兴趣。</CONN.CantGetOtherPassion>
+	<!-- EN: {0} is getting a minor passion for {1} -->
+  <CONN.GettingMinorPassion>{0}对{1}的兴趣现在为好奇。</CONN.GettingMinorPassion>
+	<!-- EN: {0} is getting a major passion for {1} -->
+  <CONN.GettingMajorPassion>{0}对{1}的兴趣现在为狂热。</CONN.GettingMajorPassion>
+
+	<!-- EN: {0} can't get more traits -->
+  <CONN.CantGetMoreTraits>{0}无法获得更多特性。</CONN.CantGetMoreTraits>
+
+	<!-- EN: Cybernetic Organism and Neural Network -->
+  <CONN.Settings>赛博义体与神经网络</CONN.Settings>
+	<!-- EN: Enable flashlight and laser detection mote -->
+  <CONN.EnableMote>启用灯光效果和激光探测特效</CONN.EnableMote>
+	<!-- EN: Maximum numbers of trait the trait giver can give -->
+  <CONN.MaxTraits>使用特性注射器可获得的最大特性数量</CONN.MaxTraits>
+
+</LanguageData>

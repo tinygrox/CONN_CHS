@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Cybernetic Organism and Neural Network CHS</name>
+  <author>tinygrox</author>
+  <supportedVersions>
+    <li>1.4</li>
+  </supportedVersions>
+  <packageId>tinygrox.CHS.CONN</packageId>
+  <modDependencies>
+    <li>
+      <packageId>kikohi.cybernetic</packageId>
+      <displayName>Cybernetic Organism and Neural Network</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2045064990</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>kikohi.cybernetic</li>
+  </loadAfter>
+  <description>Cybernetic Organism and Neural Network的简中翻译，适用于1.4版本。</description>
+</ModMetaData>

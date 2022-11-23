@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Health points added -->
+  <CONN_HealthPointAddedToPart.label>部件耐久</CONN_HealthPointAddedToPart.label>
+  <!-- EN: The amount of health point added to a body part.\n\nThis represent how much health point the bionics will add to the concerned body part. -->
+  <CONN_HealthPointAddedToPart.description>身体部件的耐久度。\n\n表示该仿生义体将为对应的身体部件增加多少的部件耐久度。</CONN_HealthPointAddedToPart.description>
+  
+  <!-- EN: shield max energy multiplier -->
+  <CONN_ShieldMultiplier.label>护盾能量上限</CONN_ShieldMultiplier.label>
+  <!-- EN: A multiplier on the maxium energy of any shield worn by the creature. -->
+  <CONN_ShieldMultiplier.description>生物佩戴的任何护盾所拥有的能量最大值。</CONN_ShieldMultiplier.description>
+  
+  <!-- EN: shield charge rate multiplier -->
+  <CONN_ShieldRechargeRateMultiplier.label>护盾充能速率</CONN_ShieldRechargeRateMultiplier.label>
+  <!-- EN: A multiplier on the recharge rate of any shield worn by the creature. -->
+  <CONN_ShieldRechargeRateMultiplier.description>生物佩戴的任何护盾能量的充能速率。</CONN_ShieldRechargeRateMultiplier.description>
+  
+</LanguageData>

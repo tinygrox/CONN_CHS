@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: berserker chip -->
+  <CONN_BerserkerChip.label>狂暴芯片</CONN_BerserkerChip.label>
+  <!-- EN: A brain implant that can gives the user an adrenaline rush. Dramatically improves the user's close combat abilities and effectively suppresses pain. While it does allow the user to accomplish more, it turns out pain has a purpose. When you don't feel it, you can get hurt really bad really easily. (Implant) -->
+  <CONN_BerserkerChip.description>一个能引发使用者肾上腺素飙升的脑部植入物。极大提升了使用者的近战能力且有效抑制了痛觉。虽然确实增强了使用者的能力，但事实也证明了疼痛的存在是有其合理性的。如果失去了痛觉，会更容易受到严重的伤害。（植入部位）</CONN_BerserkerChip.description>
+  
+  <!-- EN: mindtwist -->
+  <CONN_BodyPartsArtificialtwist.label>心境扭曲</CONN_BodyPartsArtificialtwist.label>
+  <!-- EN: A mind twist device takes away any remorses away of the patient. It interacts directly with the user's brain and closes bridges between unnecessary brain areas. It doesn't instantly remove thoughts, due to the time needed for it to establish synaptic connection. (Implant) -->
+  <CONN_BodyPartsArtificialtwist.description>一个思维扭转装置，让使用者消除任何负面的想法。装置会直接影响使用者的大脑，阻断非必要脑区间神经的冲动。因建立突触连接需要时间，所以不会立刻消除使用者已存在的想法。（植入部位）</CONN_BodyPartsArtificialtwist.description>
+  
+  <!-- EN: combat AI -->
+  <CONN_CombatAI.label>战斗AI</CONN_CombatAI.label>
+  <!-- EN: A brain implant which takes slight control over the user's precision during combat. This original design was made during a galactic war project by a certain humanoid faction to create the ultimate super soldier. They were defeated and eradicated, but some of their inventions are kept until now. (Implant) -->
+  <CONN_CombatAI.description>一个脑部植入物，在战斗时会略微接管使用者一部分涉及到精确度的神经。最初的设计原型诞生于某个类人派系为了打造终极战士的而衍生出来的某个银河战争项目。他们后来被打败并被灭族，但一些发明仍然保留到了至今。（植入部位）</CONN_CombatAI.description>
+  
+  <!-- EN: muse chip -->
+  <CONN_MuseChip.label>缪斯芯片</CONN_MuseChip.label>
+  <!-- EN: A brain implant that carries a virtual identity 'EVE', which guides the lifeform on their path. It has control over a huge database, which filters all relevant information, ensuring the best possible choice. (Implant) -->
+  <CONN_MuseChip.description>一个脑部植入物，里面装载了一个名为'EVE'的虚拟人格，这个人格会引导生命体时刻走在正确的人生道路。虚拟人格拥有一个庞大的数据库，可筛选出符合当下情形的所有相关信息，确保生命体能做出最正确的选择。（植入部位）</CONN_MuseChip.description>
+  
+  <!-- EN: neuro enhancer -->
+  <CONN_NeuroEnhancer.label>神经增强器</CONN_NeuroEnhancer.label>
+  <!-- EN: A brain Implant that acts as a direct access platform to the interstellar framework. It's always connected. When a network is found, it provides the user with information for any given situation. You can watch TV in your brain and play through any possibility with enough time. Create art in your mind or work on blueprints, constructed just by your imagination. (Implant) -->
+  <CONN_NeuroEnhancer.description>一个脑部植入物，作为一个有接入星际框架权限的平台而使用。会处于一直连接状态。当连接到网络时，能给使用者提供任何给定情形的信息。你可以在脑海中看电视、在特定的时间内玩任何可能接触到的游戏、创造艺术或者制作工作蓝图，在脑海中。（植入部位）</CONN_NeuroEnhancer.description>
+  
+</LanguageData>

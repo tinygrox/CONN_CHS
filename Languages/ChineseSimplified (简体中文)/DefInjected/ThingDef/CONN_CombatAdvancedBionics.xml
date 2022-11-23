@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: dermalplating -->
+  <CONN_Dermalplating.label>外皮镀层</CONN_Dermalplating.label>
+  <!-- EN: A full body skin transplantation. Very dangerous for the patient. The results are worth it though, overall protection and resilience are improved drastically. Dermalplating becomes one with the body and skin. (Implant) -->
+  <CONN_Dermalplating.description>人体外层皮肤的移植性义体。移植手术过程非常危险。但换来的结果是值得的，使用者的总体防护和恢复能力得到彻底的提升。外皮镀层会代替原始皮肤成为身体的一部分。</CONN_Dermalplating.description>
+  
+  <!-- EN: energy link -->
+  <CONN_EnergyLink.label>能量链路</CONN_EnergyLink.label>
+  <!-- EN: An advanced artificial spine made of plasteel. A biogel nerve bundle runs down an articulated gold core, surrounded by a healing system. It matches the performance of a biological spine and serves a high technological shield connector to duplicate its protective powers. (Replacement) -->
+  <CONN_EnergyLink.description>用玻璃钢制作的先进人工脊椎。由一根充满生物凝胶神经束的金制外壳构成，附有修复系统。可完美的代替生物体的脊椎，内置了一个高科技护盾连接装置，能够提升护盾的保护能力。（替换部位）</CONN_EnergyLink.description>
+  
+  <!-- EN: exoskeleton armor -->
+  <CONN_Exoskeleton.label>外骨骼装甲</CONN_Exoskeleton.label>
+  <!-- EN: A full body exoskeleton armor transplantation. Very, very dangerous for the patient. The results are worth it though, overall protection and resilience are improved immensely. Exoskeleton armors fuses directly with body and bones. (Implant) -->
+  <CONN_Exoskeleton.description>对全身进行移植外骨骼装甲。移植手术过程非常，非常危险。但换来的结果是值得的，使用者的总体防护和恢复能力得到极大的提升。外骨骼装甲会直接安装在生物体体内和骨骼相连。（植入部位）</CONN_Exoskeleton.description>
+  
+  <!-- EN: robotic eye -->
+  <CONN_IndependentEye.label>机械义眼</CONN_IndependentEye.label>
+  <!-- EN: An independent and fully-automated robotic eye for 270° full side vision. It feeds the user's brain with information by connecting to the central nerveous system with a special gateway processor. It can be taken out easily during maintenance for upkeep. Android versions of these can float out the eye socket and rotate around the carrier to secure and monitor the area, granting a view an eagle could dream of. (Replacement) -->
+  <CONN_IndependentEye.description>一个视角范围达到270°，能独立运行的自动化机械义眼。通过一个特制的神经处理器与中枢神经系统相连，为使用者的大脑传输画面信息。在需要保养的时候可以被轻易的取下来。用在智能人形（Android Tires Mod）上的版本还可以从眼窝中脱离出来监控周围区域，提供的视野范围就连老鹰都梦寐以求。（替换部位）</CONN_IndependentEye.description>
+  
+  <!-- EN: lionheart -->
+  <CONN_Lionheart.label>雄狮之心</CONN_Lionheart.label>
+  <!-- EN: An advanced artificial heart with adrenaline injectors and an adaptive combat system. (Replacement) -->
+  <CONN_Lionheart.description>先进的人工心脏，附有肾上腺素注射器和自适应战斗系统。（替换部位）</CONN_Lionheart.description>
+  
+  <!-- EN: outer blade -->
+  <CONN_OuterBlade.label>螳螂刀</CONN_OuterBlade.label>
+  <!-- EN: A combat-oriented forearm transformation consisting of a mechanical implementation with a telescopic blade behind the ulna. It is deadly in combat, and its plasteel breakout weapon can pierce through nearly anything due to the hydraulic forces applied. The blade can be retracted and is easy to hide. (Replacement) -->
+  <CONN_OuterBlade.description>针对战斗场景的前臂义体改造，在尺骨后方的机械装置可以让刀刃灵活运用。在战斗中使用非常致命，同时里面的液压加速装置让这种玻璃钢材质的武器可以穿透几乎任何物体。刀片可缩回，便于隐藏。（替换部位）</CONN_OuterBlade.description>
+  
+  <!-- EN: power arm -->
+  <CONN_PowerArms.label>动力义臂</CONN_PowerArms.label>
+  <!-- EN: A combat-oriented shoulder replacement consisting of a mechanical hand and a servo-motoric weapons platform. This body enhancement increases the strength of its owner tremendously. (Replacement) -->
+  <CONN_PowerArms.description>针对战斗场景的手臂义体改造，内有机械义手和伺服马达武器平台。这个义体极大地增强了使用者的力量。</CONN_PowerArms.description>
+  
+  <!-- EN: shadowrunner -->
+  <CONN_Shadowrunner.label>影行</CONN_Shadowrunner.label>
+  <!-- EN: A mechanical lung replacement and enhancer which filters any toxicity and pollutants out of the air. This particular type of lung was originally made for dangerous tasks and missions in environmental biohazards. It was later upgraded with a smoke pop releaser, controlled by the user itself. Effectively allowing him to get out of sight of potential enemies. (Replacement) -->
+  <CONN_Shadowrunner.description>一个可替代原生部件的机械肺，与原生相比增强了过滤系统，可过滤掉空气中任何存在的毒性物质和污染物。这种特殊的义体最初用来给那些要执行危险任务的人或那些要在危害环境中作业的人。后来的升级版本内置了一个可以被使用者控制的烟雾发生器。在躲避视线方面非常有效。（替换部位）</CONN_Shadowrunner.description>
+  
+</LanguageData>
