@@ -14,12 +14,12 @@
   <!-- EN: compression stomach -->
   <CONN_CompressionStomach.label>压缩胃</CONN_CompressionStomach.label>
   <!-- EN: A strong bionic stomach that digests food at an unimaginable rate due to its internal hydraulic servo-motors. It is possible to ingest stones and make them dissipate soon after, thanks to the integrated muriatic acid mixer. (Replacement) -->
-  <CONN_CompressionStomach.description>一个强力的仿生胃，内置的液压伺服马达可以以一个难以想象的速度压缩食物。内置了一个盐酸搅拌器，甚至可以消化石块。</CONN_CompressionStomach.description>
+  <CONN_CompressionStomach.description>一个强力的仿生胃，内置的液压伺服马达可以以一个难以想象的速度压缩食物。内置了一个盐酸搅拌器，甚至可以消化石块。（替换部位）</CONN_CompressionStomach.description>
   
   <!-- EN: flashlight -->
   <CONN_FlashLight.label>照明电筒</CONN_FlashLight.label>
   <!-- EN: A flashlight to enlighten the dark, mounted on the ear side. (Implant) -->
-  <CONN_FlashLight.description>安装在耳侧的照明电筒，用于照亮黑暗环境。</CONN_FlashLight.description>
+  <CONN_FlashLight.description>安装在耳侧的照明电筒，用于照亮黑暗环境。（植入部位）</CONN_FlashLight.description>
   
   <!-- EN: greenthumb -->
   <CONN_Greenthumb.label>务农指</CONN_Greenthumb.label>

@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: dermalplating -->
-  <CONN_Dermalplating.label>外皮镀层</CONN_Dermalplating.label>
+  <CONN_Dermalplating.label>皮下护甲</CONN_Dermalplating.label>
   <!-- EN: A full body skin transplantation. Very dangerous for the patient. The results are worth it though, overall protection and resilience are improved drastically. Dermalplating becomes one with the body and skin. (Implant) -->
-  <CONN_Dermalplating.description>人体外层皮肤的移植性义体。移植手术过程非常危险。但换来的结果是值得的，使用者的总体防护和恢复能力得到彻底的提升。外皮镀层会代替原始皮肤成为身体的一部分。</CONN_Dermalplating.description>
+  <CONN_Dermalplating.description>人体皮肤的周身移植性义体。移植手术过程非常危险。但换来的结果是值得的，使用者的总体防护和恢复能力得到彻底的提升。皮下护甲会和皮肤融合成为身体的一部分。（植入部分）</CONN_Dermalplating.description>
   
   <!-- EN: energy link -->
   <CONN_EnergyLink.label>能量链路</CONN_EnergyLink.label>
@@ -14,7 +14,7 @@
   <!-- EN: exoskeleton armor -->
   <CONN_Exoskeleton.label>外骨骼装甲</CONN_Exoskeleton.label>
   <!-- EN: A full body exoskeleton armor transplantation. Very, very dangerous for the patient. The results are worth it though, overall protection and resilience are improved immensely. Exoskeleton armors fuses directly with body and bones. (Implant) -->
-  <CONN_Exoskeleton.description>对全身进行移植外骨骼装甲。移植手术过程非常，非常危险。但换来的结果是值得的，使用者的总体防护和恢复能力得到极大的提升。外骨骼装甲会直接安装在生物体体内和骨骼相连。（植入部位）</CONN_Exoskeleton.description>
+  <CONN_Exoskeleton.description>对全身进行移植外骨骼装甲。移植手术过程非常，非常危险。但换来的结果是值得的，使用者的总体防护和恢复能力得到极大的提升。外骨骼装甲的部分会直接伸入到生物体内，与肌肉神经和骨骼相连接。（植入部位）</CONN_Exoskeleton.description>
   
   <!-- EN: robotic eye -->
   <CONN_IndependentEye.label>机械义眼</CONN_IndependentEye.label>
