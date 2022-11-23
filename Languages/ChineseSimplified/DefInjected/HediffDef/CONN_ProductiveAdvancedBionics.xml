@@ -4,28 +4,28 @@
   <!-- EN: aurum -->
   <CONN_hediff_Aurum.label>黄金义眼</CONN_hediff_Aurum.label>
   <!-- EN: A modified eye unit, that reflects a screen on the iris. The spy agent analyzes current trading partners, tracks dialogues, enlists stocks, compares market prices and manages credits analog. This model served as a way to transfer money discreetly between merchant guilds. Owners can bypass the black-market firewall with unlimited restrictions. Counts as forbidden commodity. -->
-  <CONN_hediff_Aurum.description>一个在虹膜上可以显示信息数据的改良型义眼。从事间谍行当的使用者可以用来如分析交易的对象可靠度、追踪对话内容、分析买入股票、比较市场价格和管理数字资产。这种型号的义体常被商业行会之间用来作为一种安全的转账手段。谁拥有了这个就可以绕过黑市的防火墙，为所欲为。算是违禁商品。</CONN_hediff_Aurum.description>
+  <CONN_hediff_Aurum.description>一个在虹膜上可以显示信息数据的改良型义眼。从事间谍行当的使用者可以用来如分析交易的对象可靠度、追踪对话内容、分析买入股票、比较市场价格和管理数字资产。这种型号的义体常被商业行会之间用来作为一种安全的转账手段。谁拥有了这个就可以绕过黑市的防火墙为所欲为。算是违禁商品。</CONN_hediff_Aurum.description>
   <!-- EN: an aurum -->
   <CONN_hediff_Aurum.labelNoun>黄金义眼</CONN_hediff_Aurum.labelNoun>
   
   <!-- EN: autonomic viruskiller -->
   <CONN_hediff_Autonomicviruskiller.label>自动净毒肝</CONN_hediff_Autonomicviruskiller.label>
   <!-- EN: Enhances the immune system with mechanite antibodies that search and destroy any danger in the blood circulation. Used by combat medics in dangerous environments. -->
-  <CONN_hediff_Autonomicviruskiller.description>使用纳米机械抗体来增强免疫系统，可自动搜寻消除血液循环中的任何危害物质。常用在危害环境下的医护作战人员。</CONN_hediff_Autonomicviruskiller.description>
+  <CONN_hediff_Autonomicviruskiller.description>使用纳米机械抗体来增强免疫系统，可自动搜寻消除血液循环系统中的任何危害物质。常在危险环境下的战场医护兵会安装此义体。</CONN_hediff_Autonomicviruskiller.description>
   <!-- EN: an autonomic viruskiller -->
   <CONN_hediff_Autonomicviruskiller.labelNoun>自动净毒肝</CONN_hediff_Autonomicviruskiller.labelNoun>
   
   <!-- EN: energetic kidney -->
   <CONN_hediff_EnergeticKidney.label>活力肾</CONN_hediff_EnergeticKidney.label>
   <!-- EN: A bionic kidney for more endurance and strength. The nephrons are replaced by a reactive filter in this hybrid design. It releases immunotoxins into the system, protecting the user from even the deadliest of diseases. -->
-  <CONN_hediff_EnergeticKidney.description>一个与原生部件相比有更强的耐久和过滤效率的仿生肾。在这种合成制品里，肾单位被替换成了自动过滤器。能将免疫毒素释放到免疫系统中，包含使用者不受致命类疾病的侵害。</CONN_hediff_EnergeticKidney.description>
+  <CONN_hediff_EnergeticKidney.description>一个与原生部件相比有更强的耐久和过滤效率的仿生肾。在这种合成制品里，肾单位被替换成了自动过滤器。能将免疫毒素释放到免疫系统中，保护使用者不受致命类疾病的侵害。</CONN_hediff_EnergeticKidney.description>
   <!-- EN: a bionic kidney -->
   <CONN_hediff_EnergeticKidney.labelNoun>一个仿生肾</CONN_hediff_EnergeticKidney.labelNoun>
   
   <!-- EN: energetic lung -->
   <CONN_hediff_EnergeticLung.label>活力肺</CONN_hediff_EnergeticLung.label>
   <!-- EN: A bionic lung with liquid oxygen dispenser, made for human space travel in times where no oxygen extractor existed. It has an extra liquid oxygen tank, effectively allowing for long period without breathing. A pair of these can form the base of a human respiratory system. This unique module replaces years of practice and self-control in a snap. -->
-  <CONN_hediff_EnergeticLung.description>一个带有液氧供给装置的仿生肺，为人类太空旅行而生。有一个额外的液氧罐，能让使用者长时间不呼吸。装上一对这个义体就可以替代人类的呼吸系统。这个独特的义体能一下子就让你改变掉那长时间养成的呼吸习惯和对呼吸的控制能力。</CONN_hediff_EnergeticLung.description>
+  <CONN_hediff_EnergeticLung.description>一个带有液氧供给装置的仿生肺，为人类太空旅行而生。有一个额外的液氧罐，能让使用者长时间不呼吸。装上一对这个义体就可以替代人类的呼吸系统。这个独特的义体能一下子就让你改变掉那长时间养成的呼吸习惯和呼吸的本能。</CONN_hediff_EnergeticLung.description>
   <!-- EN: a bionic lung -->
   <CONN_hediff_EnergeticLung.labelNoun>一个仿生肺</CONN_hediff_EnergeticLung.labelNoun>
   
