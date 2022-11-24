@@ -11,14 +11,14 @@
   <!-- EN: elastic achilles -->
   <CONN_hediff_ElasticAchilles.label>弹性跟腱</CONN_hediff_ElasticAchilles.label>
   <!-- EN: This bionic leg module can hold a man on his feet, even without any flesh on his bones. It's designed to annul the last human weakness in close combat, the Achilles' heel, by replacing it with a more elastic and less sensitive version. Favored by heavy ground units. It comes with all parts for a complete reconstruction. -->
-  <CONN_hediff_ElasticAchilles.description>这种仿生腿义体即使腿部已然森森白骨，仍然能保持站立。此义体的设计旨在消除人类在近距离战斗中的最后一丝弱点——阿喀琉斯之踵（荷马史诗中英雄阿喀琉斯唯一的弱点，即他的脚后跟），义体换上了更具弹性且灵敏度更低的材质。在重型陆战部队中非常受欢迎。该义体部件完整，能完全替代原生部件。</CONN_hediff_ElasticAchilles.description>
+  <CONN_hediff_ElasticAchilles.description>这种仿生腿义体即使腿部已然森森白骨，仍然能保持站立。此义体的设计旨在消除人类在近距离战斗中的最后一丝弱点，别称“阿喀琉斯之踵”（荷马史诗中英雄阿喀琉斯唯一的弱点，即他的脚后跟），义体换上了更具弹性且灵敏度更低的材质。在重型陆战部队中非常受欢迎。该义体做工完整功能兼备，能完全替代原生部件。</CONN_hediff_ElasticAchilles.description>
   <!-- EN: a bionic Achilles' heel -->
   <CONN_hediff_ElasticAchilles.labelNoun>一个仿生义体——阿喀琉斯之踵</CONN_hediff_ElasticAchilles.labelNoun>
   
   <!-- EN: energy fist -->
   <CONN_hediff_EnergyFist.label>能量义手</CONN_hediff_EnergyFist.label>
   <!-- EN: A combat-oriented hand replacement consisting of a technological hand and an implemented pumping system inside the wrist. The pump allows for quick, controlled punches. The mechanical trigger lets you have control about its sheer power with its powerful speed boosts bounded on neural connectors and energized by an ultratech micro-battery. -->
-  <CONN_hediff_EnergyFist.description>一种面向战斗场景的手部义体改造，部件主要由一个高科技手掌和手腕处的泵送系统组成。其中的泵送系统能够给拳头提供一个快速可控的加速度，用来打击敌人。纯机械驱动的构造能让你完全掌控这个有绑定在神经连接器上的强力增速器的义体，无论是力道还是速度，由里面的一个超高科技微型电池进行供电。</CONN_hediff_EnergyFist.description>
+  <CONN_hediff_EnergyFist.description>一种面向战斗场景的手部义体改造，部件主要由一个高科技手掌和手腕处的泵送系统组成。其中的泵送系统能够给拳头提供一个快速可控的加速度，用来打击敌人。上面有个绑定在神经连接器上的强力增速器，由内置的超高科技微型电池进行供电，纯机械驱动的构造能让你完全掌控这个义体。</CONN_hediff_EnergyFist.description>
   <!-- EN: arm -->
   <CONN_hediff_EnergyFist.comps.HediffComp_VerbGiver.tools.arm.label>手臂</CONN_hediff_EnergyFist.comps.HediffComp_VerbGiver.tools.arm.label>
   <!-- EN: an energy fist -->
