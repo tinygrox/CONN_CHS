@@ -30,11 +30,11 @@
   <CONN_hediff_FlashLight.labelNoun>照明电筒</CONN_hediff_FlashLight.labelNoun>
   
   <!-- EN: greenthumb -->
-  <CONN_hediff_Greenthumb.label>务农指</CONN_hediff_Greenthumb.label>
+  <CONN_hediff_Greenthumb.label>务农义指</CONN_hediff_Greenthumb.label>
   <!-- EN: A dedicated bionic module created for farmers in an effort of quick colonization. It replaces the thumb as a full configurable and functional finger device. Everything inside the palm of the hand is scanned with a learning nanocomputer, containing information about various types of flora and fauna. The nail glows green during data scans and loading times. -->
   <CONN_hediff_Greenthumb.description>为农夫创造的仿生体部件，加快建造殖民地的速度。义体能够完全代替拇指的功能，是一个功能齐全且可完全自定义的手指义体。内置的学习型纳米计算机会自动扫描接触在手心里的任何物体，获得有关该动物或植物种类的任何信息。在扫描或是装载物品时指甲会发出绿光。</CONN_hediff_Greenthumb.description>
   <!-- EN: a greenthumb -->
-  <CONN_hediff_Greenthumb.labelNoun>务农指</CONN_hediff_Greenthumb.labelNoun>
+  <CONN_hediff_Greenthumb.labelNoun>务农义指</CONN_hediff_Greenthumb.labelNoun>
   
   <!-- EN: hover foot -->
   <CONN_hediff_HoverFeet.label>悬浮足</CONN_hediff_HoverFeet.label>

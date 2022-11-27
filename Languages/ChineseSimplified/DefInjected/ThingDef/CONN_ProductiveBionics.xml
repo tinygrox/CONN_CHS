@@ -22,7 +22,7 @@
   <CONN_FlashLight.description>安装在耳侧的照明电筒，用于照亮黑暗环境。（植入部位）</CONN_FlashLight.description>
   
   <!-- EN: greenthumb -->
-  <CONN_Greenthumb.label>务农指</CONN_Greenthumb.label>
+  <CONN_Greenthumb.label>务农义指</CONN_Greenthumb.label>
   <!-- EN: A dedicated bionic module created for farmers in an effort of quick colonization. It replaces the thumb as a full configurable and functional finger device. Everything inside the palm of the hand is scanned with a learning nanocomputer, containing information about various types of flora and fauna. The nail glows green during data scans and loading times. (Replacement) -->
   <CONN_Greenthumb.description>为农夫创造的仿生体部件，加快建造殖民地的速度。义体能够完全代替拇指的功能，是一个功能齐全且可完全自定义的手指义体。内置的学习型纳米计算机会自动扫描在手心里的任何物体，获得任何有关该动物或植物种类的信息。在扫描或是装载物品时指甲会发出绿光。（替换部位）</CONN_Greenthumb.description>
   

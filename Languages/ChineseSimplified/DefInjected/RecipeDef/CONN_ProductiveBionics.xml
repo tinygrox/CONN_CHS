@@ -30,11 +30,11 @@
   <CONN_InstallFlashLight.jobString>正在安装照明电筒。</CONN_InstallFlashLight.jobString>
   
   <!-- EN: install greenthumb -->
-  <CONN_InstallGreenthumb.label>安装务农指</CONN_InstallGreenthumb.label>
+  <CONN_InstallGreenthumb.label>安装务农义指</CONN_InstallGreenthumb.label>
   <!-- EN: Install a greenthumb. -->
-  <CONN_InstallGreenthumb.description>安装务农指。</CONN_InstallGreenthumb.description>
+  <CONN_InstallGreenthumb.description>安装务农义指。</CONN_InstallGreenthumb.description>
   <!-- EN: Installing greenthumb. -->
-  <CONN_InstallGreenthumb.jobString>正在安装务农指。</CONN_InstallGreenthumb.jobString>
+  <CONN_InstallGreenthumb.jobString>正在安装务农义指。</CONN_InstallGreenthumb.jobString>
   
   <!-- EN: install hover foot -->
   <CONN_InstallHoverFeet.label>安装悬浮足</CONN_InstallHoverFeet.label>
