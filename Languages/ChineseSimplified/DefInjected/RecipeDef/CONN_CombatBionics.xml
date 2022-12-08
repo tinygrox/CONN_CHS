@@ -16,11 +16,11 @@
   <CONN_InstallElasticAchilles.jobString>正在安装弹性跟腱。</CONN_InstallElasticAchilles.jobString>
   
   <!-- EN: install energy fist -->
-  <CONN_InstallEnergyFist.label>安装能量义手</CONN_InstallEnergyFist.label>
+  <CONN_InstallEnergyFist.label>安装充能铁拳</CONN_InstallEnergyFist.label>
   <!-- EN: Install energy fist. -->
-  <CONN_InstallEnergyFist.description>安装能量义手。</CONN_InstallEnergyFist.description>
+  <CONN_InstallEnergyFist.description>安装充能铁拳。</CONN_InstallEnergyFist.description>
   <!-- EN: Installing energy fist. -->
-  <CONN_InstallEnergyFist.jobString>正在安装能量义手。</CONN_InstallEnergyFist.jobString>
+  <CONN_InstallEnergyFist.jobString>正在安装充能铁拳。</CONN_InstallEnergyFist.jobString>
   
   <!-- EN: install laser detection -->
   <CONN_InstallLaserDetection.label>安装激光探测</CONN_InstallLaserDetection.label>

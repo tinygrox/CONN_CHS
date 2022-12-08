@@ -16,13 +16,13 @@
   <CONN_hediff_ElasticAchilles.labelNoun>一个仿生义体——阿喀琉斯之踵</CONN_hediff_ElasticAchilles.labelNoun>
   
   <!-- EN: energy fist -->
-  <CONN_hediff_EnergyFist.label>能量义手</CONN_hediff_EnergyFist.label>
+  <CONN_hediff_EnergyFist.label>充能铁拳</CONN_hediff_EnergyFist.label>
   <!-- EN: A combat-oriented hand replacement consisting of a technological hand and an implemented pumping system inside the wrist. The pump allows for quick, controlled punches. The mechanical trigger lets you have control about its sheer power with its powerful speed boosts bounded on neural connectors and energized by an ultratech micro-battery. -->
   <CONN_hediff_EnergyFist.description>一种面向战斗场景的手部义体改造，部件主要由一个高科技手掌和手腕处的泵送系统组成。其中的泵送系统能够给拳头提供一个快速可控的加速度，用来打击敌人。上面有个绑定在神经连接器上的强力增速器，由内置的超高科技微型电池进行供电，纯机械驱动的构造能让你完全掌控这个义体。</CONN_hediff_EnergyFist.description>
   <!-- EN: arm -->
   <CONN_hediff_EnergyFist.comps.HediffComp_VerbGiver.tools.arm.label>手臂</CONN_hediff_EnergyFist.comps.HediffComp_VerbGiver.tools.arm.label>
   <!-- EN: an energy fist -->
-  <CONN_hediff_EnergyFist.labelNoun>能量义手</CONN_hediff_EnergyFist.labelNoun>
+  <CONN_hediff_EnergyFist.labelNoun>充能铁拳</CONN_hediff_EnergyFist.labelNoun>
   
   <!-- EN: laser detection -->
   <CONN_hediff_LaserDetection.label>激光探测</CONN_hediff_LaserDetection.label>
