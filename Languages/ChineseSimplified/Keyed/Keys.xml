@@ -18,8 +18,12 @@
 	<!-- EN: {0} is getting a major passion for {1} -->
   <CONN.GettingMajorPassion>{0}对{1}的兴趣现在为狂热。</CONN.GettingMajorPassion>
 
-	<!-- EN: {0} can't get more traits -->
   <CONN.CantGetMoreTraits>{0}无法获得更多特性。</CONN.CantGetMoreTraits>
+  
+	<!-- EN: Toggle berserk -->
+  <CONN.BerserkLabel>狂暴</CONN.BerserkLabel>
+	<!-- EN: Toggle berserk mental state -->
+	<CONN.BerserkDesc>狂暴精神状态</CONN.BerserkDesc>
 
 	<!-- EN: Cybernetic Organism and Neural Network -->
   <CONN.Settings>赛博义体与神经网络</CONN.Settings>
